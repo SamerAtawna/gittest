@@ -1,2 +1,2 @@
-console.log("test1");
+console.log("test1Master");
 console.log("test2frommaster");
